@@ -14,9 +14,9 @@ This is also to compose a proper read me file.
 
 The mastering markdown guide on github is a good starting point;
 
-[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-[Markdown Cheats](https://www.markdownguide.org/cheat-sheet/)
-[Markdown Emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+*[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+*[Markdown Cheats](https://www.markdownguide.org/cheat-sheet/)
+*[Markdown Emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 ## Additional Resources
 
