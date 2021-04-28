@@ -20,8 +20,6 @@ The mastering markdown guide on github is a good starting point;
 
 ## Additional Resources
 
-![Code_for_VBA_Challenge](https://user-images.githubusercontent.com/81701640/116437665-ac1b8480-a81b-11eb-90a1-e589a1e3bfae.png)
-
 The resources below are also very useful;
 
 * [Git and Github in Plain English](https://blog.red-badger.com/2016/11/29/gitgithub-in-plain-english)
