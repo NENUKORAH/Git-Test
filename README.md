@@ -20,6 +20,8 @@ The mastering markdown guide on github is a good starting point;
 
 ## Additional Resources
 
+![alt text](/Resources/Code_for_VBA_Challenge.png?raw=true "Test")
+
 The resources below are also very useful;
 
 * [Git and Github in Plain English](https://blog.red-badger.com/2016/11/29/gitgithub-in-plain-english)
@@ -36,10 +38,6 @@ It feels good understanding and having a grip on how these things work.
 I have never felt this excited in a long time. Here is an expression of how i feel;
 
 :grinning: :smiley: :grin: :wink: :blush: :star_struck: :hugs: :sunglasses:
-
-
-![alt text](/Resources/Code for the VBA Challenge.png?raw=true)
-
 
 ~~Signing out~~
 
